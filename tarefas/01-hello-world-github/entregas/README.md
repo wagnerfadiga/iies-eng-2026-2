@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Olá! Eu sou **Wagner Fadiga**, estudante de **Engenharia Civil**. Sou uma pessoa dedicada, comunicativa e gosto de aprender coisas novas. Busco sempre evoluir tanto na vida profissional quanto na pessoal.
+Olá! Eu sou Wagner Fadiga, estudante de Engenharia Civil. Sou uma pessoa dedicada, comunicativa e gosto de aprender coisas novas. Busco sempre evoluir tanto na vida profissional quanto na pessoal.
 
 ## Tecnologias
 
@@ -25,9 +25,9 @@ Olá! Eu sou **Wagner Fadiga**, estudante de **Engenharia Civil**. Sou uma pesso
 
 ## Como me chamar
 
-* **Nome:** Wagner Fadiga
-* **Curso:** Engenharia Civil
-* **Forma de contato preferida:** WhatsApp
+* Nome: Wagner Fadiga
+* Curso: Engenharia Civil
+* Forma de contato preferida: WhatsApp
 
 ## Aviso importante
 
